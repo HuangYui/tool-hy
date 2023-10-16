@@ -18,7 +18,7 @@ public class FindFileAndModifyUtil {
 
     public static void main(String[] args) {
 
-        String path = "C:\\project\\ddyk\\new-porject\\new-project-v2";
+        String path = "C:\\project\\ddyk\\ddyk-server-new";
 
         String fileName = "config";
         String sourceStr = "192.168.1.108";
